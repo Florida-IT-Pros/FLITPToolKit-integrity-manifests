@@ -1,7 +1,7 @@
 {
     "SchemaVersion":  1,
     "LauncherVersion":  "0.5.24",
-    "Generated":  "09/07/2026 9:45 PM EST",
+    "Generated":  "09/07/2026 10:08 PM EST",
     "ProtectedFileTypes":  [
                                ".ps1",
                                ".html"
@@ -9,15 +9,15 @@
     "Files":  [
                   {
                       "Path":  "00-FLITP-M365-ConnectionLauncher.ps1",
-                      "SHA256":  "6028210FED8080528EFACDC00A126640A18D9DFF5F3F9342617BDCFD0D7C58F3"
+                      "SHA256":  "936D6AC118AD0AF0A5C056DF974DF46322D40DCDA7D1F3DE51A1D1B6306A6814"
                   },
                   {
                       "Path":  "20-Import-FLITP-M365-ClientsFromExcel.ps1",
-                      "SHA256":  "51682C681CEE835D0B42C49157F7BC93A20423C02521E65C72E9C54DC54379DB"
+                      "SHA256":  "F6EAE8D39237AD12381FEA9B4D843E8667659134DE22F0CCF0712579D6D6430B"
                   },
                   {
                       "Path":  "30-Start-FLITP-M365-ClientEditor.ps1",
-                      "SHA256":  "4E59C82F05BA704769994F26251F847525DFC0B4192DB158AB6BD5E2098EBDD0"
+                      "SHA256":  "4D72FA838C6D41A80E0BCA3E916FA25832FD09EEF8DD79DC596BBC4389820433"
                   },
                   {
                       "Path":  "40-Test-FLITP-M365ModuleHealth.ps1",
@@ -37,7 +37,7 @@
                   },
                   {
                       "Path":  "FLITP-M365-ClientEditor.html",
-                      "SHA256":  "AC287E1DBF1C539DBFDC3421AB604ECC6684C5A41A38E66D6F281E1D4DC6AC78"
+                      "SHA256":  "83A3F705D8C17DA9E4A9F5843E7108D439590E9FEF495C2CEE8DF5DEBA028652"
                   },
                   {
                       "Path":  "Publish-FLITP-M365-IntegrityManifest.ps1",
