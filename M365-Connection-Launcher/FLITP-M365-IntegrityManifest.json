@@ -1,1 +1,47 @@
-
+{
+    "SchemaVersion":  1,
+    "LauncherVersion":  "0.5.24",
+    "Generated":  "09/07/2026 9:15 PM EST",
+    "ProtectedFileTypes":  [
+                               ".ps1",
+                               ".html"
+                           ],
+    "Files":  [
+                  {
+                      "Path":  "00-FLITP-M365-ConnectionLauncher.ps1",
+                      "SHA256":  "9F34279412820AA3B48DB01878B2C0D334290E04E06FF3E117D4B045138AF838"
+                  },
+                  {
+                      "Path":  "20-Import-FLITP-M365-ClientsFromExcel.ps1",
+                      "SHA256":  "51682C681CEE835D0B42C49157F7BC93A20423C02521E65C72E9C54DC54379DB"
+                  },
+                  {
+                      "Path":  "30-Start-FLITP-M365-ClientEditor.ps1",
+                      "SHA256":  "4E59C82F05BA704769994F26251F847525DFC0B4192DB158AB6BD5E2098EBDD0"
+                  },
+                  {
+                      "Path":  "40-Test-FLITP-M365ModuleHealth.ps1",
+                      "SHA256":  "BB1D56F148694CE13F8E00A047C072872CD28382ACF90221F9806DE998B16CF0"
+                  },
+                  {
+                      "Path":  "50-Install-FLITP-DawgCommand.ps1",
+                      "SHA256":  "006B7A51746F79A3320A3C4D43AD8E06E24571C716B488BC04373293ABDF7EDF"
+                  },
+                  {
+                      "Path":  "60-Set-FLITP-M365LauncherPermissions.ps1",
+                      "SHA256":  "60CED053D95AD65D10ECF8E15D262F41389792E2B227D3BC6EA9138C7A662676"
+                  },
+                  {
+                      "Path":  "70-Test-FLITP-M365LauncherIntegrity.ps1",
+                      "SHA256":  "AC8F813933AEFAD4574213D8B9882E1C1F5747B9991F17C15391577B2048A67C"
+                  },
+                  {
+                      "Path":  "FLITP-M365-ClientEditor.html",
+                      "SHA256":  "AC287E1DBF1C539DBFDC3421AB604ECC6684C5A41A38E66D6F281E1D4DC6AC78"
+                  },
+                  {
+                      "Path":  "Publish-FLITP-M365-IntegrityManifest.ps1",
+                      "SHA256":  "9A7102FC4C253203D2AA47973FD9242ED0600EB7D07A16CC076A81E0C6F618B1"
+                  }
+              ]
+}
