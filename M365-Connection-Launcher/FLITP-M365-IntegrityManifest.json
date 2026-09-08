@@ -1,7 +1,7 @@
 {
     "SchemaVersion":  1,
     "LauncherVersion":  "0.5.24",
-    "Generated":  "09/07/2026 9:15 PM EST",
+    "Generated":  "09/07/2026 9:45 PM EST",
     "ProtectedFileTypes":  [
                                ".ps1",
                                ".html"
@@ -9,7 +9,7 @@
     "Files":  [
                   {
                       "Path":  "00-FLITP-M365-ConnectionLauncher.ps1",
-                      "SHA256":  "9F34279412820AA3B48DB01878B2C0D334290E04E06FF3E117D4B045138AF838"
+                      "SHA256":  "6028210FED8080528EFACDC00A126640A18D9DFF5F3F9342617BDCFD0D7C58F3"
                   },
                   {
                       "Path":  "20-Import-FLITP-M365-ClientsFromExcel.ps1",
