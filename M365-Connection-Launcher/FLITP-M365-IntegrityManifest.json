@@ -33,7 +33,7 @@
                   },
                   {
                       "Path":  "70-Test-FLITP-M365LauncherIntegrity.ps1",
-                      "SHA256":  "AC8F813933AEFAD4574213D8B9882E1C1F5747B9991F17C15391577B2048A67C"
+                      "SHA256":  "519A2376D2C807F520341F3EFD1D948E81F6BD953F558762B70F804979DDBFDE"
                   },
                   {
                       "Path":  "FLITP-M365-ClientEditor.html",
