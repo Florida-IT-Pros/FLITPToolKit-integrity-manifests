@@ -1,1 +1,47 @@
-
+{
+    "SchemaVersion": 1,
+    "LauncherVersion": "0.6.2",
+    "Generated": "SEED - run Publish-FLITP-M365-IntegrityManifest_PS7.ps1 locally before committing to GitHub",
+    "ProtectedFileTypes": [
+        ".ps1",
+        ".html"
+    ],
+    "Files": [
+        {
+            "Path": "00-FLITP-M365-ConnectionLauncher.ps1",
+            "SHA256": "85E7729276F3269E6B648A17DCD2F57F19966607309E318A52BF869D0F9AD9C2"
+        },
+        {
+            "Path": "20-Import-FLITP-M365-ClientsFromExcel.ps1",
+            "SHA256": "F6EAE8D39237AD12381FEA9B4D843E8667659134DE22F0CCF0712579D6D6430B"
+        },
+        {
+            "Path": "30-Start-FLITP-M365-ClientEditor.ps1",
+            "SHA256": "4D72FA838C6D41A80E0BCA3E916FA25832FD09EEF8DD79DC596BBC4389820433"
+        },
+        {
+            "Path": "40-Test-FLITP-M365ModuleHealth.ps1",
+            "SHA256": "BB1D56F148694CE13F8E00A047C072872CD28382ACF90221F9806DE998B16CF0"
+        },
+        {
+            "Path": "50-Install-FLITP-DawgCommand.ps1",
+            "SHA256": "006B7A51746F79A3320A3C4D43AD8E06E24571C716B488BC04373293ABDF7EDF"
+        },
+        {
+            "Path": "60-Set-FLITP-M365LauncherPermissions.ps1",
+            "SHA256": "60CED053D95AD65D10ECF8E15D262F41389792E2B227D3BC6EA9138C7A662676"
+        },
+        {
+            "Path": "70-Test-FLITP-M365LauncherIntegrity.ps1",
+            "SHA256": "718662962C585A21DB835EA5823FD9C9F37592AFE3CBC89F4A04F8F121748E80"
+        },
+        {
+            "Path": "FLITP-M365-ClientEditor.html",
+            "SHA256": "EE41DCA883551E7573478B333F74BA6CEC8769AB646D6005147BD034D9E24288"
+        },
+        {
+            "Path": "Publish-FLITP-M365-IntegrityManifest_PS7.ps1",
+            "SHA256": "E2B05BEC1CAD6B939F6872527B5D06DD545749E0C73EA4018B83A3EB6BDBFB32"
+        }
+    ]
+}
