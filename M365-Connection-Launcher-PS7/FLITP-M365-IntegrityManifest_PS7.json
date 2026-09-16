@@ -1,7 +1,7 @@
 {
   "SchemaVersion": 1,
-  "LauncherVersion": "0.6.2",
-  "Generated": "09/16/2026 10:09 AM EST",
+  "LauncherVersion": "0.6.2-PS7",
+  "Generated": "09/16/2026 10:19 AM EST",
   "ProtectedFileTypes": [
     ".ps1",
     ".html"
@@ -9,7 +9,7 @@
   "Files": [
     {
       "Path": "00-FLITP-M365-ConnectionLauncher_PS7.ps1",
-      "SHA256": "85E7729276F3269E6B648A17DCD2F57F19966607309E318A52BF869D0F9AD9C2"
+      "SHA256": "40ACBD0F71520734737A6C8D55EA5BD43D5892E260FF153D27A917A763B736AD"
     },
     {
       "Path": "20-Import-FLITP-M365-ClientsFromExcel.ps1",
@@ -25,7 +25,7 @@
     },
     {
       "Path": "50-Install-FLITP-Dawg7Command.ps1",
-      "SHA256": "5ADB4C48CB32A3060B3DD9542028332636EC34C478FBF8D070A5F18B983BC227"
+      "SHA256": "44407E731D6C4AE3009ED29C4C5FD00BAED0F8EB9026F7663FE92A6D5C645A63"
     },
     {
       "Path": "60-Set-FLITP-M365LauncherPermissions.ps1",
@@ -41,7 +41,7 @@
     },
     {
       "Path": "Publish-FLITP-M365-IntegrityManifest_PS7.ps1",
-      "SHA256": "E2B05BEC1CAD6B939F6872527B5D06DD545749E0C73EA4018B83A3EB6BDBFB32"
+      "SHA256": "EEBDA236DB7294E752C7BDB052289C8B028C6AA032F42545E40FD4EBC7B25C10"
     }
   ]
 }
