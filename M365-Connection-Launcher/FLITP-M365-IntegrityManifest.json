@@ -1,7 +1,7 @@
 {
     "SchemaVersion":  1,
     "LauncherVersion":  "0.5.24",
-    "Generated":  "09/15/2026 9:32 PM EST",
+    "Generated":  "09/15/2026 9:35 PM EST",
     "ProtectedFileTypes":  [
                                ".ps1",
                                ".html"
@@ -41,7 +41,7 @@
                   },
                   {
                       "Path":  "Publish-FLITP-M365-IntegrityManifest.ps1",
-                      "SHA256":  "9A7102FC4C253203D2AA47973FD9242ED0600EB7D07A16CC076A81E0C6F618B1"
+                      "SHA256":  "A7AFE2BEAB9A9ED44B7E889ED2DD59C453ED99B7AD68F3811A97A65A03845968"
                   }
               ]
 }
